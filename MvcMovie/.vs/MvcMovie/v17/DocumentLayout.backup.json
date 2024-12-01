@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|c:\\school stuff\\centennialcollege\\f2024\\comp 367 (sec. c511) - devops implementation\\evaluations\\labs\\3\\q2\\app\\mvcmovie\\mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|c:\\school stuff\\centennialcollege\\f2024\\comp 367 (sec. c511) - devops implementation\\evaluations\\labs\\3\\q2\\app\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|c:\\school stuff\\centennialcollege\\f2024\\comp 367 (sec. c511) - devops implementation\\evaluations\\labs\\3\\q2\\app\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|c:\\school stuff\\centennialcollege\\f2024\\comp 367 (sec. c511) - devops implementation\\evaluations\\labs\\3\\q2\\app\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|c:\\school stuff\\centennialcollege\\f2024\\comp 367 (sec. c511) - devops implementation\\evaluations\\labs\\3\\q2\\app\\mvcmovie\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|c:\\school stuff\\centennialcollege\\f2024\\comp 367 (sec. c511) - devops implementation\\evaluations\\labs\\3\\q2\\app\\mvcmovie\\mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332AB288-9802-4FBD-9D61-4BEA2C1A2FC6}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T22:43:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswFAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:39:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T22:09:05.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Program.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Program.cs",
+              "ToolTip": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Program.cs",
+              "RelativeToolTip": "MvcMovie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:07:58.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcMovie\\appsettings.json",
+              "ToolTip": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\appsettings.json",
+              "RelativeToolTip": "MvcMovie\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T22:06:09.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:02:58.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
