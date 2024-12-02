@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZwOFUS/L72w=",
+  "dgSpecHash": "FjWyjqNPYiM=",
   "success": true,
-  "projectFilePath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\tomo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
