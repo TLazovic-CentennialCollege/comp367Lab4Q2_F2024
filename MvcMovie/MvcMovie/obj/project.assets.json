@@ -7776,11 +7776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\tomo\\.nuget\\packages\\",
-      "outputPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
