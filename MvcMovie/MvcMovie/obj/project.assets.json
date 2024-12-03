@@ -7776,11 +7776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\comp367Lab4Q2_F2024\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\comp367Lab4Q2_F2024\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\tomo\\.nuget\\packages\\",
-      "outputPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\3\\q2\\app\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\comp367Lab4Q2_F2024\\comp367Lab3Q2_F2024\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7795,7 +7795,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/tlazovic/comp367Lab4Q1_F2024/_packaging/feed_comp367Lab4Q1_F2024/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
